@@ -1,3 +1,5 @@
+<a href="https://app.daily.dev/erezcedar"><img src="./devcard.png" width="356" alt="Erez's Dev Card"/></a>
+
 ## Hi there 👋
 
 <!--
