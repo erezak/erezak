@@ -1,8 +1,11 @@
 <a href="https://app.daily.dev/erezcedar"><img src="./devcard.png" width="356" alt="Erez's Dev Card"/></a>
 
 🔭 I’m currently working on GenAI Initiatives
+
 🌱 I’m currently learning Zig, for fun and interest
+
 👯 I’m looking to collaborate on open source projects
+
 
 <!--
 **erezak/erezak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
